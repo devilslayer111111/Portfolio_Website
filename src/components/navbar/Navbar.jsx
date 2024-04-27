@@ -19,7 +19,7 @@ const Navbar = () => {
           <a href="#">
             <img src="/facebook.png" alt="" />
           </a>
-          <a href="#">
+          <a href="https://www.instagram.com/true.ankur?igsh=MWEyOW8zb2Zvbzh3Ng==">
             <img src="/instagram.png" alt="" />
           </a>
           <a href="#">
